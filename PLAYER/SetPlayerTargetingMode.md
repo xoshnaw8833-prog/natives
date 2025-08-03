@@ -1,4 +1,4 @@
----
+0---
 ns: PLAYER
 ---
 ## SET_PLAYER_TARGETING_MODE
